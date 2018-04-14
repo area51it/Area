@@ -1,0 +1,140 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2.WebApi", "2.WebApi", "{71C02DE4-3A4A-47C5-AFE2-9F1AB9E40DD4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Area51.WebApi", "Area51.WebApi\Area51.WebApi.csproj", "{50086FD1-AE42-4E11-A1B2-CD419DBFABBB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.Database", "1.Database", "{063F4C5D-5A24-4FE1-BCF3-DB7F7B219345}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3.Repository", "3.Repository", "{A4884516-BAF6-420A-B167-240B025EA402}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4.Shared", "4.Shared", "{2B07069C-5452-41FE-B201-EA797102AB49}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "Database", "Database\Database.sqlproj", "{E7B4429E-11AE-4FD9-8477-AAC9C338F30B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Area51.ApiRepository", "Area51.ApiRepository\Area51.ApiRepository.csproj", "{EEA87C9E-A70E-4613-9FE9-82C43A6F64AA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "6.Area51.Test", "6.Area51.Test", "{BB68CFBE-C7AA-439F-A4B2-A1C0C4ADCC67}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestConsole", "TestConsole\TestConsole.csproj", "{EAE19371-7948-48BE-A627-3300F5A4D5BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Area51.EF", "Area51.NHibernate\Area51.EF.csproj", "{A1329E2F-3D74-41F3-8685-225D0DD7938F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Area51.ApiRepositoryContracts", "Area51.ApiRepositoryContracts\Area51.ApiRepositoryContracts.csproj", "{C82F7330-59E1-469C-98B4-E0AA16A0F5D6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5.UI", "5.UI", "{5945E8AA-6590-4A1A-8600-469D85D5041C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Area51.ApiAgent", "Area51.ApiAgent\Area51.ApiAgent.csproj", "{A10C4074-BC72-472E-8FF7-3B8B82ABD037}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Area51.UI", "Area51.UI\Area51.UI.csproj", "{E0685F6D-8D2C-4D94-BA4F-2BA98EC248DF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Area51.Shared", "Area51.Shared\Area51.Shared.csproj", "{5135F5C4-E708-491D-91EB-F0CAFF99435A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50086FD1-AE42-4E11-A1B2-CD419DBFABBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50086FD1-AE42-4E11-A1B2-CD419DBFABBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50086FD1-AE42-4E11-A1B2-CD419DBFABBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50086FD1-AE42-4E11-A1B2-CD419DBFABBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7B4429E-11AE-4FD9-8477-AAC9C338F30B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7B4429E-11AE-4FD9-8477-AAC9C338F30B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7B4429E-11AE-4FD9-8477-AAC9C338F30B}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{E7B4429E-11AE-4FD9-8477-AAC9C338F30B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7B4429E-11AE-4FD9-8477-AAC9C338F30B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7B4429E-11AE-4FD9-8477-AAC9C338F30B}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{EEA87C9E-A70E-4613-9FE9-82C43A6F64AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEA87C9E-A70E-4613-9FE9-82C43A6F64AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEA87C9E-A70E-4613-9FE9-82C43A6F64AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEA87C9E-A70E-4613-9FE9-82C43A6F64AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAE19371-7948-48BE-A627-3300F5A4D5BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAE19371-7948-48BE-A627-3300F5A4D5BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAE19371-7948-48BE-A627-3300F5A4D5BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAE19371-7948-48BE-A627-3300F5A4D5BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1329E2F-3D74-41F3-8685-225D0DD7938F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1329E2F-3D74-41F3-8685-225D0DD7938F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1329E2F-3D74-41F3-8685-225D0DD7938F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1329E2F-3D74-41F3-8685-225D0DD7938F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C82F7330-59E1-469C-98B4-E0AA16A0F5D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C82F7330-59E1-469C-98B4-E0AA16A0F5D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C82F7330-59E1-469C-98B4-E0AA16A0F5D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C82F7330-59E1-469C-98B4-E0AA16A0F5D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A10C4074-BC72-472E-8FF7-3B8B82ABD037}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A10C4074-BC72-472E-8FF7-3B8B82ABD037}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A10C4074-BC72-472E-8FF7-3B8B82ABD037}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A10C4074-BC72-472E-8FF7-3B8B82ABD037}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0685F6D-8D2C-4D94-BA4F-2BA98EC248DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0685F6D-8D2C-4D94-BA4F-2BA98EC248DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0685F6D-8D2C-4D94-BA4F-2BA98EC248DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0685F6D-8D2C-4D94-BA4F-2BA98EC248DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5135F5C4-E708-491D-91EB-F0CAFF99435A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5135F5C4-E708-491D-91EB-F0CAFF99435A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5135F5C4-E708-491D-91EB-F0CAFF99435A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5135F5C4-E708-491D-91EB-F0CAFF99435A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{50086FD1-AE42-4E11-A1B2-CD419DBFABBB} = {71C02DE4-3A4A-47C5-AFE2-9F1AB9E40DD4}
+		{E7B4429E-11AE-4FD9-8477-AAC9C338F30B} = {063F4C5D-5A24-4FE1-BCF3-DB7F7B219345}
+		{EEA87C9E-A70E-4613-9FE9-82C43A6F64AA} = {A4884516-BAF6-420A-B167-240B025EA402}
+		{EAE19371-7948-48BE-A627-3300F5A4D5BC} = {BB68CFBE-C7AA-439F-A4B2-A1C0C4ADCC67}
+		{A1329E2F-3D74-41F3-8685-225D0DD7938F} = {A4884516-BAF6-420A-B167-240B025EA402}
+		{C82F7330-59E1-469C-98B4-E0AA16A0F5D6} = {A4884516-BAF6-420A-B167-240B025EA402}
+		{A10C4074-BC72-472E-8FF7-3B8B82ABD037} = {5945E8AA-6590-4A1A-8600-469D85D5041C}
+		{E0685F6D-8D2C-4D94-BA4F-2BA98EC248DF} = {5945E8AA-6590-4A1A-8600-469D85D5041C}
+		{5135F5C4-E708-491D-91EB-F0CAFF99435A} = {2B07069C-5452-41FE-B201-EA797102AB49}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {930354D8-3547-4553-A549-5DCD497B2E08}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 10
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://area51it.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Area51.ApiAgent\\Area51.ApiAgent.csproj
+		SccProjectTopLevelParentUniqueName1 = Area51.sln
+		SccProjectName1 = Area51.ApiAgent
+		SccLocalPath1 = Area51.ApiAgent
+		SccProjectUniqueName2 = Area51.ApiRepository\\Area51.ApiRepository.csproj
+		SccProjectTopLevelParentUniqueName2 = Area51.sln
+		SccProjectName2 = Area51.ApiRepository
+		SccLocalPath2 = Area51.ApiRepository
+		SccProjectUniqueName3 = Area51.ApiRepositoryContracts\\Area51.ApiRepositoryContracts.csproj
+		SccProjectTopLevelParentUniqueName3 = Area51.sln
+		SccProjectName3 = Area51.ApiRepositoryContracts
+		SccLocalPath3 = Area51.ApiRepositoryContracts
+		SccProjectUniqueName4 = Area51.NHibernate\\Area51.EF.csproj
+		SccProjectTopLevelParentUniqueName4 = Area51.sln
+		SccProjectName4 = Area51.NHibernate
+		SccLocalPath4 = Area51.NHibernate
+		SccProjectUniqueName5 = Area51.Shared\\Area51.Shared.csproj
+		SccProjectTopLevelParentUniqueName5 = Area51.sln
+		SccProjectName5 = Area51.Shared
+		SccLocalPath5 = Area51.Shared
+		SccProjectUniqueName6 = Area51.UI\\Area51.UI.csproj
+		SccProjectTopLevelParentUniqueName6 = Area51.sln
+		SccProjectName6 = Area51.UI
+		SccLocalPath6 = Area51.UI
+		SccProjectUniqueName7 = Area51.WebApi\\Area51.WebApi.csproj
+		SccProjectTopLevelParentUniqueName7 = Area51.sln
+		SccProjectName7 = Area51.WebApi
+		SccLocalPath7 = Area51.WebApi
+		SccProjectUniqueName8 = Database\\Database.sqlproj
+		SccProjectTopLevelParentUniqueName8 = Area51.sln
+		SccProjectName8 = Database
+		SccLocalPath8 = Database
+		SccProjectUniqueName9 = TestConsole\\TestConsole.csproj
+		SccProjectTopLevelParentUniqueName9 = Area51.sln
+		SccProjectName9 = TestConsole
+		SccLocalPath9 = TestConsole
+	EndGlobalSection
+EndGlobal

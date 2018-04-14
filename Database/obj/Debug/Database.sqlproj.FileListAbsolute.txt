@@ -1,0 +1,9 @@
+C:\Users\NB21467\source\repos\Area51\Database\bin\Debug\Database.dacpac
+C:\Users\NB21467\source\repos\Area51\Database\bin\Debug\Database.dll
+C:\Users\NB21467\source\repos\Area51\Database\bin\Debug\Database.pdb
+C:\Users\NB21467\source\repos\Area51\Database\obj\Debug\Database.dll
+C:\Users\NB21467\source\repos\Area51\Database\obj\Debug\Database.pdb
+C:\Users\NB21467\source\repos\Area51\Database\obj\Debug\Model.xml
+C:\Users\NB21467\source\repos\Area51\Database\obj\Debug\refactor.xml
+C:\Users\NB21467\source\repos\Area51\Database\obj\Debug\postdeploy.sql
+C:\Users\NB21467\source\repos\Area51\Database\obj\Debug\predeploy.sql

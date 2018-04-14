@@ -1,0 +1,6 @@
+C:\Users\NB21467\source\repos\Area51\Teste1\bin\Debug\Teste1.dll
+C:\Users\NB21467\source\repos\Area51\Teste1\bin\Debug\Teste1.pdb
+C:\Users\NB21467\source\repos\Area51\Teste1\obj\Debug\Teste1.csprojResolveAssemblyReference.cache
+C:\Users\NB21467\source\repos\Area51\Teste1\obj\Debug\Teste1.csproj.CoreCompileInputs.cache
+C:\Users\NB21467\source\repos\Area51\Teste1\obj\Debug\Teste1.dll
+C:\Users\NB21467\source\repos\Area51\Teste1\obj\Debug\Teste1.pdb

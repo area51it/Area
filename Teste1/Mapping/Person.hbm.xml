@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2">
+  <class name="Teste1.Person, Teste1" table="Person">
+    <id name="Id" column="Id" type="int">
+      <generator class="identity"></generator>
+    </id>
+    <property name="First_Name" column="First_Name" type="String"></property>
+    <property name="Last_Name" column="Last_Name" type="String"></property>
+  </class>
+</hibernate-mapping>

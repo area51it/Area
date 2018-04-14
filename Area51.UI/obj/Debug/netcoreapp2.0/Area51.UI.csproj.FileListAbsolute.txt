@@ -1,0 +1,14 @@
+C:\Users\NB21467\source\repos\Area51\Area51.UI\bin\Debug\netcoreapp2.0\Area51.UI.deps.json
+C:\Users\NB21467\source\repos\Area51\Area51.UI\bin\Debug\netcoreapp2.0\Area51.UI.runtimeconfig.json
+C:\Users\NB21467\source\repos\Area51\Area51.UI\bin\Debug\netcoreapp2.0\Area51.UI.runtimeconfig.dev.json
+C:\Users\NB21467\source\repos\Area51\Area51.UI\bin\Debug\netcoreapp2.0\Area51.UI.dll
+C:\Users\NB21467\source\repos\Area51\Area51.UI\bin\Debug\netcoreapp2.0\Area51.UI.pdb
+C:\Users\NB21467\source\repos\Area51\Area51.UI\obj\Debug\netcoreapp2.0\Area51.UI.csprojResolveAssemblyReference.cache
+C:\Users\NB21467\source\repos\Area51\Area51.UI\obj\Debug\netcoreapp2.0\Area51.UI.csproj.CoreCompileInputs.cache
+C:\Users\NB21467\source\repos\Area51\Area51.UI\obj\Debug\netcoreapp2.0\Area51.UI.AssemblyInfoInputs.cache
+C:\Users\NB21467\source\repos\Area51\Area51.UI\obj\Debug\netcoreapp2.0\Area51.UI.AssemblyInfo.cs
+C:\Users\NB21467\source\repos\Area51\Area51.UI\obj\Debug\netcoreapp2.0\Area51.UI.dll
+C:\Users\NB21467\source\repos\Area51\Area51.UI\obj\Debug\netcoreapp2.0\Area51.UI.pdb
+C:\Users\NB21467\source\repos\Area51\Area51.UI\bin\Debug\netcoreapp2.0\Area51.ApiAgent.dll
+C:\Users\NB21467\source\repos\Area51\Area51.UI\bin\Debug\netcoreapp2.0\Area51.ApiAgent.pdb
+C:\Users\NB21467\source\repos\Area51\Area51.UI\obj\Debug\netcoreapp2.0\Area51.UI.csproj.CopyComplete

@@ -1,0 +1,6 @@
+C:\Users\NB21467\source\repos\Area51\Area51.ApiRepositoryContracts\bin\Debug\Area51.ApiRepositoryContracts.dll
+C:\Users\NB21467\source\repos\Area51\Area51.ApiRepositoryContracts\bin\Debug\Area51.ApiRepositoryContracts.pdb
+C:\Users\NB21467\source\repos\Area51\Area51.ApiRepositoryContracts\obj\Debug\Area51.ApiRepositoryContracts.csprojResolveAssemblyReference.cache
+C:\Users\NB21467\source\repos\Area51\Area51.ApiRepositoryContracts\obj\Debug\Area51.ApiRepositoryContracts.csproj.CoreCompileInputs.cache
+C:\Users\NB21467\source\repos\Area51\Area51.ApiRepositoryContracts\obj\Debug\Area51.ApiRepositoryContracts.dll
+C:\Users\NB21467\source\repos\Area51\Area51.ApiRepositoryContracts\obj\Debug\Area51.ApiRepositoryContracts.pdb

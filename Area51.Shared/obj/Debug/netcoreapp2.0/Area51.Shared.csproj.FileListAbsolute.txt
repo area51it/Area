@@ -1,0 +1,9 @@
+C:\Users\NB21467\source\repos\Area51\Area51.Shared\bin\Debug\netcoreapp2.0\Area51.Shared.deps.json
+C:\Users\NB21467\source\repos\Area51\Area51.Shared\bin\Debug\netcoreapp2.0\Area51.Shared.dll
+C:\Users\NB21467\source\repos\Area51\Area51.Shared\bin\Debug\netcoreapp2.0\Area51.Shared.pdb
+C:\Users\NB21467\source\repos\Area51\Area51.Shared\obj\Debug\netcoreapp2.0\Area51.Shared.csprojResolveAssemblyReference.cache
+C:\Users\NB21467\source\repos\Area51\Area51.Shared\obj\Debug\netcoreapp2.0\Area51.Shared.csproj.CoreCompileInputs.cache
+C:\Users\NB21467\source\repos\Area51\Area51.Shared\obj\Debug\netcoreapp2.0\Area51.Shared.AssemblyInfoInputs.cache
+C:\Users\NB21467\source\repos\Area51\Area51.Shared\obj\Debug\netcoreapp2.0\Area51.Shared.AssemblyInfo.cs
+C:\Users\NB21467\source\repos\Area51\Area51.Shared\obj\Debug\netcoreapp2.0\Area51.Shared.dll
+C:\Users\NB21467\source\repos\Area51\Area51.Shared\obj\Debug\netcoreapp2.0\Area51.Shared.pdb
